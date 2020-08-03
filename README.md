@@ -6,6 +6,6 @@
 <p>copy github shell.
 
 <p>cd $GGATE/<br>
-<b>./script_name.sh </b><br>
+<b>./ogg-clone.sh </b><br>
 
 <p>It will return 'add commands' to be run on other OGG home.
